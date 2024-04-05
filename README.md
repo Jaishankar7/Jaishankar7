@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Epixel Solutions
-
+- 🌱 I’m currently learning Fullstack Developement
 
 <!--
 **Jaishankar7/Jaishankar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
